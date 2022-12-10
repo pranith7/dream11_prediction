@@ -1,0 +1,2 @@
+1. Add strike rate value to main data
+2. venues and orginial data extraction
